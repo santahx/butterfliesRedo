@@ -1,14 +1,11 @@
-Minetest Game mod: Butterflies
-==============================
-Adds butterflies to the world on mapgen, which can be caught in a net if the
-fireflies mod is also enabled.
+Butterflies redo adds beautifull colored butterflies.
 
-Authors of source code
-----------------------
-Shara RedCat (MIT)
+this Mod is an re-distribution of: https://github.com/minetest-game-mod/butterflies
 
-Authors of media (textures)
----------------------------
-Shara RedCat (CC BY-SA 3.0):
-  butterflies_butterfly_*.png
-  butterflies_butterfly_*_animated.png
+with a new License.
+
+new Graphics.
+
+and new Butterflies.
+
+created by santaHX

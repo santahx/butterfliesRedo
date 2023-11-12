@@ -7,7 +7,11 @@ local S = minetest.get_translator("butterflies")
 local butter_list = {
 	{"white",  S("White Butterfly")},
 	{"red",    S("Red Butterfly")},
-	{"violet", S("Violet Butterfly")}
+	{"violet", S("Violet Butterfly")},
+	{"yellow", S("Yellow Butterfly")},
+	{"blue", S("Blue Butterfly")},
+	{"green", S("Green Butterfly")},
+	{"pink", S("Pink Butterfly")}
 }
 
 for i in ipairs (butter_list) do
